@@ -1,5 +1,7 @@
 # Object Detection Literature Review
 - Fork from [SurVis](https://github.com/fabian-beck/survis.git)
-![Screenshot](/doc/survis.png)
+- Containing 10 papers in the field of **Object Detection**
+
+![Screenshot](/doc/screemshot.png)
 
 
