@@ -2,6 +2,6 @@
 - Fork from [SurVis](https://github.com/fabian-beck/survis.git)
 - Containing 10 papers in the field of **Object Detection**
 
-![Screenshot](/doc/screemshot.png)
+![Screenshot](/doc/screenshot.png)
 
 
